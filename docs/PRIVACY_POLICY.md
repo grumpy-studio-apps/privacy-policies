@@ -1,6 +1,6 @@
 # Privacy Policy for DudeWhereIsMyCaltrain
 
-**Last Updated**: October 25, 2025
+**Last Updated**: October 27, 2025
 
 ## Overview
 
@@ -41,11 +41,50 @@ The app stores the following data locally on your device:
 We do not:
 - Collect personal information (name, email, phone number, etc.)
 - Track your movements or travel patterns
-- Share your data with third parties
 - Use analytics or crash reporting services
-- Display advertisements
 - Require account creation
 - Store data on remote servers
+- Sell your personal information to third parties
+
+## Advertising
+
+This app displays advertisements to support free development and maintenance.
+
+### Google AdMob
+
+We use Google AdMob to display banner advertisements at the bottom of the main screen. AdMob may collect and process:
+
+**Data Collected by AdMob**:
+- Device advertising identifiers (IDFA/AAID, only if you grant tracking permission)
+- IP address (for general location at city/country level)
+- Device type, model, and operating system version
+- App usage data and ad interaction data
+- Approximate location based on IP address
+
+**Ad Personalization & App Tracking Transparency**:
+
+When you first open the app, iOS will ask for your tracking permission:
+
+- **If you allow tracking**: Ads may be personalized based on your interests across apps and websites. This may result in more relevant ads and higher revenue to support the app.
+- **If you deny tracking**: You'll see non-personalized ads that are contextually relevant but not based on your cross-app activity. The app will still function fully.
+
+**Your Privacy Choices**:
+- Control tracking permission in iOS Settings → Privacy & Security → Tracking → DudeWhereIsMyCaltrain
+- Disable personalized ads system-wide in iOS Settings → Privacy & Security → Apple Advertising
+- Reset your advertising identifier in iOS Settings → Privacy & Security → Apple Advertising → Reset Advertising Identifier
+
+**Important Notes**:
+- Ad revenue helps keep this app free for all users
+- We do not receive any personally identifiable information from AdMob
+- AdMob operates independently and has its own privacy practices
+- Ads are served by Google's ad network and third-party advertisers
+
+**Third-Party Privacy Policies**:
+- **Google Privacy Policy**: https://policies.google.com/privacy
+- **AdMob & Privacy**: https://support.google.com/admob/answer/6128543
+- **Google Ad Personalization**: https://adssettings.google.com
+
+For details on how Google uses data from apps that use their services, visit: https://policies.google.com/technologies/partner-sites
 
 ## Third-Party Services
 
@@ -112,4 +151,4 @@ Caltrain is a registered trademark of the Peninsula Corridor Joint Powers Board.
 
 ---
 
-**Summary**: We respect your privacy. Your location (when enabled) stays on your device, we don't collect personal information, and we don't track you.
+**Summary**: We respect your privacy. Your location (when enabled) stays on your device, we don't collect personal information, and ads help keep the app free. You control ad personalization through iOS tracking permissions.
